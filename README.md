@@ -1,4 +1,4 @@
-# Tindog_ClassProject
+# Tindog_CourseProject
 <p>My completed course project of <b>tindog</b> <br>
 <pre><i>a Web developer course from <b>The App Brewery</b></i></pre></p>
 
@@ -14,7 +14,7 @@
   <li> importing font Awesome icons</li>
 </ul>
 
-<a href="https://jimbrayrcp.github.io/Tindog_ClassProject/"><h2>Click Here to View Project</h2></a>
+<a href="https://jimbrayrcp.github.io/Tindog_CourseProject/"><h2>Click Here to View Project</h2></a>
 
 <hr>
 
